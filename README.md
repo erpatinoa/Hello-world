@@ -1,2 +1,2 @@
 # Hello-world
-Primer programa. El computador responderá un "Hola mundo" en el monitor.
+First program. The computer will respond with a "Hello world" message that will be displayed on the monitor.
